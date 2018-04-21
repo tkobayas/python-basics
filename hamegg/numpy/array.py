@@ -26,7 +26,7 @@ print arr
 
 print "-----"
 
-arr = np.ones((2, 3))
+arr = np.identity(4)
 
 print arr
 
